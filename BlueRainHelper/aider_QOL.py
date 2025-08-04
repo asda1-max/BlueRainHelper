@@ -20,11 +20,5 @@ def wipeScreen():
         cmd = "clear"
     os.system(cmd)
 
-pause()
-
-makingSure()
-
-wipeScreen()
-
 
 
