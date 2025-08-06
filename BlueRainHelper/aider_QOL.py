@@ -61,13 +61,3 @@ def customText(msg = "custom", fg = 0, bg = 0, italic = 0, underline = 0):
 
 
 
-successText("asu")
-dangerText("asu")
-warningText("asu")
-
-customText("asulu ngentot banget",10,0,1,1)
-customText("su", 1,0)
-
-
-
-
